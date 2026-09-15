@@ -26,9 +26,9 @@ from bot.config import ARCHIVE_GROUP
 logger = logging.getLogger(__name__)
 
 READY_TEXT = (
-    "✅ WB TAXI LEGENDA ga arizangiz muvaffaqiyatli qabul qilindi!\n\n"
+    "✅ WB LORD TAXI ga arizangiz muvaffaqiyatli qabul qilindi!\n\n"
     "📩 Iltimos, SMS xabarnomani kuting.  \n"
-    "Agar savollaringiz bo‘lsa, @WBLEGENDATAXI orqali murojaat qilishingiz mumkin."
+    "Agar savollaringiz bo‘lsa, @LORDTAXI orqali murojaat qilishingiz mumkin."
 )
 
 
